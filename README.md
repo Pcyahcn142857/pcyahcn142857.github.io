@@ -1,3 +1,9 @@
-Hello this is my site here are links to my tools:
+Hello this is my site
 
-(PDF Translator)[www.ycn-learning.cn/pdf-translate/]
+# Tools
+
+www.ycn-learning.cn/pdf-translate/
+
+# Other Projects
+
+www.ycn-learning.cn/present-pop/ (fun game!)
